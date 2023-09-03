@@ -4,6 +4,10 @@ h1 {
 }
 
 body {
-    background-color: rgb(158, 174, 168);
+    background-color: rgb(206, 209, 208);
 }
 
+p{
+    color: #2020d3;
+    font-size: 20px;
+}
