@@ -4,8 +4,9 @@ body {
 #emc {
     width: 300px;
     height: 300px;
-    border: 10px solid black
-
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
 }
 
 h1 {
