@@ -5,8 +5,10 @@ body {
     width: 300px;
     height: 300px;
     border: 10px solid black;
-    padding: 20px; //espaçamento interno da borda//
-    margin: 20px; //espaçamento externo da borda//
+    //espaçamento interno da borda//
+    padding: 20px; 
+    //espaçamento externo da borda//
+    margin: 20px; 
 }
 
 h1 {
